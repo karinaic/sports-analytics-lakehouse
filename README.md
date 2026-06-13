@@ -81,6 +81,9 @@ sports_analytics_lakehouse/
 
 ---
 
+## Dashboard
+
+![Sports Analytics Dashboard](dashboard_sports_analytics.png)
 ## Autor
 
 **Karina Inche Cisneros**
